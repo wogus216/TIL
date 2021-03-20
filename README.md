@@ -1,4 +1,4 @@
-# TIL
+# TIL(Today I Learned)
 **꾸준함은 모든것을 이긴다.** 🔥🔥🔥
 
 
