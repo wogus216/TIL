@@ -1,4 +1,4 @@
-# TIL(Today I Learned)
+# DIM(Do It More)
 **꾸준함은 모든것을 이긴다.** 🔥🔥🔥
 
 
